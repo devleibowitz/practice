@@ -1,0 +1,11 @@
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/obj/Debug/FirstTry.Android.csproj.CoreCompileInputs.cache
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/obj/Debug/FirstTry.dll
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/obj/Debug/FirstTry.pdb
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/bin/Debug/FirstTry.dll
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/bin/Debug/FirstTry.pdb
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/bin/Debug/FirstTry.FirstTry.apk
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/bin/Debug/FirstTry.FirstTry-Signed.apk
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/obj/Debug/android/bin/FirstTry.FirstTry.apk
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/obj/Debug/R.cs.flag
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/obj/Debug/uploadflags.txt
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.Android/obj/Debug/FirstTry.Android.csprojResolveAssemblyReference.cache

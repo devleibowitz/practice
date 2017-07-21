@@ -1,0 +1,2 @@
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.NuGet/obj/Debug/FirstTry.NuGet.nuprojResolveAssemblyReference.cache
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.NuGet/obj/Debug/FirstTry.NuGet.nuproj.CoreCompileInputs.cache

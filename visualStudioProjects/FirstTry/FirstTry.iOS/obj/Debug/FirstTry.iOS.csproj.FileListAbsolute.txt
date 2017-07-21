@@ -1,0 +1,6 @@
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.iOS/obj/Debug/optimized/
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.iOS/obj/Debug/FirstTry.iOS.csproj.CoreCompileInputs.cache
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.iOS/obj/Debug/FirstTry.dll
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.iOS/obj/Debug/FirstTry.pdb
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.iOS/bin/Debug/FirstTry.dll
+/Volumes/My Passport/squareteams/visualStudioProjects/FirstTry/FirstTry.iOS/bin/Debug/FirstTry.pdb

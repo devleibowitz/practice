@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{44A5A5FF-5CC9-44AC-81AD-2FED58B7F7CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirstTry.iOS HideGettingStarted="True" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FirstTry.NuGet HideGettingStarted="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstTry.Shared HideGettingStarted="True" />
+  <MonoDevelop.Ide.ItemProperties.FirstTry.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" HideGettingStarted="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

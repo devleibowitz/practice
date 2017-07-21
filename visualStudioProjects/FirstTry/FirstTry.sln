@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FirstTry.Shared", "FirstTry.Shared\FirstTry.Shared.shproj", "{98D948E9-2DEF-4B4B-9679-BD5BF001B74E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstTry.iOS", "FirstTry.iOS\FirstTry.iOS.csproj", "{E8DAEF88-04A5-4007-86A6-55E85AD1C666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstTry.Android", "FirstTry.Android\FirstTry.Android.csproj", "{44A5A5FF-5CC9-44AC-81AD-2FED58B7F7CB}"
+EndProject
+Project("{5DD5E4FA-CB73-4610-85AB-557B54E96AA9}") = "FirstTry.NuGet", "FirstTry.NuGet\FirstTry.NuGet.nuproj", "{07BC4379-97A0-4BAD-B79B-175A871FC686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DAEF88-04A5-4007-86A6-55E85AD1C666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DAEF88-04A5-4007-86A6-55E85AD1C666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DAEF88-04A5-4007-86A6-55E85AD1C666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DAEF88-04A5-4007-86A6-55E85AD1C666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A5A5FF-5CC9-44AC-81AD-2FED58B7F7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A5A5FF-5CC9-44AC-81AD-2FED58B7F7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A5A5FF-5CC9-44AC-81AD-2FED58B7F7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A5A5FF-5CC9-44AC-81AD-2FED58B7F7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BC4379-97A0-4BAD-B79B-175A871FC686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BC4379-97A0-4BAD-B79B-175A871FC686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BC4379-97A0-4BAD-B79B-175A871FC686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BC4379-97A0-4BAD-B79B-175A871FC686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
